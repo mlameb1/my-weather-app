@@ -7,12 +7,12 @@ export default function App() {
         
       
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="Weather-App-link"
+          href="https://github.com/mlameb1/my-weather-app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Coded by E Mlambo using open-sourced GitHub
         </a>
     
     </div>
