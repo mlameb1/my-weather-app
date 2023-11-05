@@ -1,7 +1,9 @@
+
+import React from "react";
 import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
+import { createRoot } from "react-dom";
 import Weather from "./Weather";
-import "./weather.css";
+
 
 import App from "./App";
 
@@ -10,8 +12,10 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
+    <div>
     <App />
     <Weather />
+    </div>
   </StrictMode>
 );
 
