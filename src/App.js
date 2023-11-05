@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          E Mlambo Github link
+         E Mlambo open-sourced GitHub link
         </a>
         
       </header>
